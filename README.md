@@ -24,11 +24,11 @@ with a focus on business and policy relevance.
 
  👉 The Dataset contains the following columns:
  
- ** Year:The year of thesales.
- ** Month_Name:The month in which sales occurred.
- ** Date: The specific date of the sales.
- ** State: The state in India where the sales occurred.
- ** Vehicle_Class: The class of the vehicle(e.g.,sedan,SUV,etc.).
- ** Vehicle_Category: The category of the vehicle(e.g.,commercial,passenger).
- ** Vehicle_Type: The type of the vehicle(e.g.,2-wheeler,4-wheeler).
- ** EV_Sales_Quantity: The quantity of EV sales
+ *** Year:The year of thesales.
+ *** Month_Name:The month in which sales occurred.
+ *** Date: The specific date of the sales.
+ *** State: The state in India where the sales occurred.
+ *** Vehicle_Class: The class of the vehicle(e.g.,sedan,SUV,etc.).
+ *** Vehicle_Category: The category of the vehicle(e.g.,commercial,passenger).
+ *** Vehicle_Type: The type of the vehicle(e.g.,2-wheeler,4-wheeler).
+ *** EV_Sales_Quantity: The quantity of EV sales
