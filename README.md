@@ -23,6 +23,7 @@ with a focus on business and policy relevance.
  The dataset is provided in CSV format and is ready for analysis.
 
  👉 The Dataset contains the following columns:
+ 
  ● Year:The year of thesales.
  ● Month_Name:The month in which sales occurred.
  ● Date: The specific date of the sales.
